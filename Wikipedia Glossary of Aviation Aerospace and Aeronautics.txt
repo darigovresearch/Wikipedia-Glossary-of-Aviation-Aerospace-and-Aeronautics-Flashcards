@@ -1,3 +1,17 @@
+"Introduction (Wikipedia Glossary of Aviation Aerospace and Aeronautics)"|"
+<p>This deck has taken definitions outlined in <a href=""https://en.wiktionary.org/wiki/Appendix:Glossary_of_aviation,_aerospace,_and_aeronautics"">Wikipedia's Glossary of aviation, aerospace, and aeronautics</a> and put them into a form which can be easily learnt/revised using <a href=""https://apps.ankiweb.net/"">Anki</a> a cross platform app specifically designed for long term knowledge retention.</p>
+<h2>Notes</h2>
+<p>Please note the modifications which have been made &amp; where you can find updates.</p>
+<ol align=""left"">
+<li>The front of every card has ""(Wikipedia Glossary of Aviation Aerospace and Aeronautics)"" appended to the end so that if you have any other words in your collection, the Wikipedia definition will still be added when importing it.</li>
+<li>Any updates or corrections to the deck will be available at <a href=""https://github.com/darigovresearch/Wikipedia-Glossary-of-Aviation-Aerospace-and-Aeronautics-Flashcards/"">https://github.com/darigovresearch/Wikipedia-Glossary-of-Aviation-Aerospace-and-Aeronautics-Flashcards/</a> so do return periodically to check if you have the latest version.</li>
+</ol>
+<p>Feel free to share the deck and give the repository a star so more people are likely to see this work and can get the most out of it.</p>
+<h2>License</h2>
+<p>Unless otherwise specified, everything in this deck is covered by the following licence:</p>
+<p>This deck uses material from the Wikipedia article <a href=""https://en.wiktionary.org/wiki/Appendix:Glossary_of_aviation,_aerospace,_and_aeronautics"">""Glossary of aviation, aerospace, and aeronautics""</a>, which is released under the <a href=""https://creativecommons.org/licenses/by-sa/3.0/"">Creative Commons Attribution-Share-Alike License 3.0</a>.</p>
+<p>To see this work in full go to <a href=""https://en.wiktionary.org/wiki/Appendix:Glossary_of_aviation,_aerospace,_and_aeronautics"">https://en.wiktionary.org/wiki/Appendix:Glossary_of_aviation,_aerospace,_and_aeronautics</a></p>
+"
 "<b><a href=""https://en.wikipedia.org/wiki/aerodrome"" title=""aerodrome"">aerodrome</a></b> (Wikipedia Glossary of Aviation Aerospace and Aeronautics)"|"An airfield used for managed aircraft operation. In Britain, an alternative term for airport."
 "<b><a href=""https://en.wikipedia.org/wiki/aerodyne"" title=""aerodyne"">aerodyne</a></b> (Wikipedia Glossary of Aviation Aerospace and Aeronautics)"|"A heavier-than-air craft, deriving its lift from motion."
 "<b><a href=""https://en.wikipedia.org/wiki/aeronaut"" title=""aeronaut"">aeronaut</a></b> (Wikipedia Glossary of Aviation Aerospace and Aeronautics)"|"Pilot or crew of lighter-than-air craft."
